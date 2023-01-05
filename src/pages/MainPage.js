@@ -42,6 +42,7 @@ function MainPage(props) {
 			<div className="mx-auto">
 				<ThreeColumns
 					columns={[
+						// <Card  webp={main1_webp}>롱보드는 아주 재밌습니다.</Card>,
 						<Card image={main1}>롱보드는 아주 재밌습니다.</Card>,
 						<Card image={main2}>롱보드를 타면 아주 신납니다.</Card>,
 						<Card image={main3}>롱보드는 굉장히 재밌습니다.</Card>
